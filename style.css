@@ -33,9 +33,9 @@ p {
 .grid-container {
   display: grid;
   grid-template-areas:
-    "block1 block1 block2 block2 block2 block2"
-    "block1 block1 block3 block3 block5 block5"
-    "block4 block4 block4 block4 block5 block5";
+    "block1 block2 block2"
+    "block1 block3 block5"
+    "block4 block4 block5";
 }
 .grid-container div {
   padding: 60px 60px;
